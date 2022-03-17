@@ -4,7 +4,7 @@ class Config:
     """
     General configuration parent class
     """
-    pass
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://faithremo:1503@localhost/formula1'
 
 
 class ProdConfig(Config):
