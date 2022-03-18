@@ -1,7 +1,10 @@
 .footer{
     background-color: rgb(163, 162, 156);
     padding:20px 10px;
+
     overflow: hidden;
+    top: 100%;
+    position: sticky;
 }
 h1{
     color: black;
