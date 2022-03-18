@@ -1,0 +1,9 @@
+/* .active-link
+{
+    font-weight: bold;
+} */
+
+.navbar-light .navbar-nav .nav-link.active-link{
+    font-weight: bold;
+    color: blue;
+}

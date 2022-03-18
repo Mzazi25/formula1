@@ -1,0 +1,35 @@
+.banner{
+    background-image: url('../../../assets/images/banner(1).jpg');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.content{
+    top:30%;
+    left: 20%;
+    position:absolute;
+
+}
+
+.content h1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+     
+
+}
+.content a{
+    text-decoration: none;
+    background-color: rgba(230, 173, 19, 0.897);
+    color:black;
+    padding: 20px 25px;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content a:hover{
+    background-color: blue;
+    color:#fff;
+}
